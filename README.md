@@ -2,9 +2,9 @@
 
 My name is Dillon Sheils. I'm a freshman Computer Science & Economics Double-Major at the Univerisity of Massachusetts Amherst. 
 
-🔭 I’m currently working on making a mobile app to track insider trades
-🌱 I’m currently learning about mobile & full-stack development
-📫 You can reach me at dsheilsauto@gmail.com
+🔭 I’m currently working on making a mobile app to track insider trades  
+🌱 I’m currently learning about mobile & full-stack development  
+📫 You can reach me at dsheilsauto@gmail.com  
 <!--
 **dsheils-clone/dsheils-clone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
