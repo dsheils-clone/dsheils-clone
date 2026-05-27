@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Dillon Sheils. I'm a freshman Computer Science & Economics Double-Major at the Univerisity of Massachusetts Amherst. 
+My name is Dillon Sheils. I'm a freshman Computer Science & Math Double-Major at the Univerisity of Massachusetts Amherst. 
 
-🔭 I’m currently working on making a mobile app to track insider trades  
+🔭 I’m currently working on making a mobile app to help anglers use weather conditions to strategize their fishing trips
 🌱 I’m currently learning about mobile & full-stack development  
 📫 You can reach me at dsheilsauto@gmail.com  
 <!--
